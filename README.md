@@ -1,2 +1,3 @@
 # Hello-World
-First repo
+
+This is the first repo I have produced to learn what GitHub is.
